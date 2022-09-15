@@ -34,6 +34,7 @@ const style={
                 
             </Col>
             <ContactUs/>
+            <div style={{margin : 'auto'}}>Personal portifolio page made by mintesnot Bekele | NO ©copyright issues Feel free to check my github to re use it  </div>
           </Row>
         </>
     )
