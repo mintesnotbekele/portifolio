@@ -56,22 +56,7 @@ const Services=()=>{
                 environment while focusing on delivering quality products within the deadline</div>
           </div>
        </Col>
-       <Col className="gutter-row" span={1}>
-       </Col> 
-       <Divider></Divider>
-       <Col className="gutter-row" span={1}>
-       </Col>
-       <Col className="gutter-row" span={7} style={style}>
-          <div>Web Development</div>
-       </Col> 
-       <Col className="gutter-row" span={7} style={style}   >
-       <div>Web Development</div>
-       </Col> 
-       <Col className="gutter-row" span={7} style={style}>
-       <div>Web Development</div>
-       </Col>
-       <Col className="gutter-row" span={1}>
-       </Col> 
+      
        </Row>
       
     </>
