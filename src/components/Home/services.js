@@ -51,7 +51,7 @@ const Services=()=>{
          <div >
             <img style={{objectFit: 'contain', width: '30%'}} src={databaseImage}/>
          </div>
-          <div style={skillHeader}>Database and Server Management</div>
+          <div style={skillHeader}>Database and Server </div>
           <div>software developer with a proven ability to adpt in both collabortive and self starting 
                 environment while focusing on delivering quality products within the deadline</div>
           </div>

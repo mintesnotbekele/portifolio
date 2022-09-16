@@ -11,7 +11,7 @@ const HomeSkills=()=>{
         </Col>
         <Row >
             <Col style={{padding: '100px'}} span={12}>
-            <div style={{fontSize: '14pt'}}>Hello! I am Dolly Singh, Web developer, Digital marketer and a YouTuber. 
+            <div style={{fontSize: '14pt'}}>Hello! I am Mintesnot Bekele, Web developer, Digital marketer and a YouTuber. 
             I live in Hyderabad, India. I am Frontend developer and I have build some projects on wordpress Elementor.
             I also know basic about SEO. I have Youtube Channel where I upload my project's video and many more things.
             Have a Look at My Youtube Channel, It will Students/developer to learn thing in easy ways and help you to make projects. 

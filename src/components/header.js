@@ -2,7 +2,7 @@ import Layout from "antd/lib/layout/layout";
 import { Header, Content } from "antd/lib/layout/layout";
 import { Menu } from "antd";
 import Banner from "./Home/banner";
-
+import back  from "../assets/bac.jpg";
 const Head = ()=>{
 
     const menuIttem = [
@@ -16,13 +16,9 @@ const Head = ()=>{
 
     return (
         <>
-           <Layout>
+     <Layout  style={{width: '80%', margin : 'auto', color: 'white', background: 'rgba(52, 52, 52, 0.8)'}}>
     <Header
-      style={{
-        position: 'fixed',
-        zIndex: 1,
-        width: '100%',
-      }}
+    style={{opacity: '0.9'}}
     >
       <div className="logo" />
       <Menu
@@ -33,18 +29,10 @@ const Head = ()=>{
           label: value,
         }))}
       >
-       
         </Menu>
     </Header>
-    <Content
-      className="site-layout"
-      style={{
-        padding: '0 50px',
-        marginTop: 64,
-      }}
-    >
+    <div >
       <div
-        className="site-layout-background"
         style={{
           padding: 24,
           minHeight: 380,
@@ -52,7 +40,7 @@ const Head = ()=>{
       >
        <Banner/>
       </div>
-    </Content>
+    </div>
  
   </Layout>
         </>
