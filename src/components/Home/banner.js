@@ -10,13 +10,17 @@ import Tools from "./tools";
                 <>
                 <Row style={{margin: '100px'}} gutter={16}>
                 
-                    <Col className="gutter-row" span={12} style={{ marginTop: '100px',paddingRight: '50px',textAlign: 'right'}}>
-                    <div  style={{fontSize: '38pt'}}>
+                    <Col className="gutter-row w3-container" span={12} style={{ marginTop: '100px',paddingRight: '50px',textAlign: 'right'}}>
+                    <div className="w3-center w3-animate-left " style={{fontSize: '38pt'}}>
                         Hello There, I am Mintesnot 
                     </div>
                     <div style={{fontSize: '28pt'}}>
                         A web Developer
-                    </div>  
+                    </div>
+                    <div>
+                    software developer with a proven ability to adapt in both collabortive and self starting 
+                environment while focusing on delivering quality products within the deadline. 
+                        </div>  
                     </Col>
                     <Col className="gutter-row" span={12}>
                       <div>
@@ -30,7 +34,7 @@ import Tools from "./tools";
                 </Row>
                     <Divider></Divider>
               
-                <HomeSkills/>
+                {/* <HomeSkills/> */}
                 <Services/>
                 <Tools/>
                 <Experience/>

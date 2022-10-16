@@ -21,7 +21,7 @@ const Tools=()=>{
     <Row style={{margin: '100px'}}>
         <Col span={13}>
           <div>
-            <div style={{fontSize: '18pt', marginTop: '70px'}}>
+            <div style={{fontSize: '18pt', marginTop: '20px'}}>
             These are my all-time favorite Tools and Weapons
             </div>
             <div style={{fontSize: '12pt', marginTop: '10px'}}>
@@ -41,20 +41,7 @@ const Tools=()=>{
                 <img style={imageStyle} src={slackImage}/>
                 <img style={imageStyle} src={reactImage}/>
                 <img style={imageStyle} src={googleImage}/>
-                <img style={imageStyle} src={gitImage}/>
-                <img style={imageStyle} src={youtubeImage}/>
-                <img style={imageStyle} src={nodeImage}/>
-                <img style={imageStyle} src={visualImage}/>
-                <img style={imageStyle} src={slackImage}/>
-                <img style={imageStyle} src={reactImage}/>
-                <img style={imageStyle} src={googleImage}/>
-                <img style={imageStyle} src={gitImage}/>
-                <img style={imageStyle} src={youtubeImage}/>
-                <img style={imageStyle} src={nodeImage}/>
-                <img style={imageStyle} src={visualImage}/>
-                <img style={imageStyle} src={slackImage}/>
-                <img style={imageStyle} src={reactImage}/>
-                <img style={imageStyle} src={googleImage}/>
+               
              </div>
         </Col>
     </Row>

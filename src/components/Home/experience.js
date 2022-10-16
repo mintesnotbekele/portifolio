@@ -7,6 +7,9 @@ const Experience=()=>{
 
     return(
         <>
+        <Row id="works">
+            <div style={{margin:  " auto", fontSize: '30pt'}}>Companies I have worked at</div>
+        </Row>
         <Row>
             <Col span={8}>
                 <img style={{objectFit: 'contain', width: '100%', height: '200px'}} src={berhanImage} alt="BerhanBank sc logo"/>

@@ -12,8 +12,8 @@ const style={
     return(
         <>
            <Row>
-            <Col span={24}>
-            <div style={{fontSize: '30pt', textAlign: 'center', marginTop: '40px', marginBottom: '40px'}}>Get In Touch</div>
+            {/* <Col span={24}> */}
+            {/* <div style={{fontSize: '30pt', textAlign: 'center', marginTop: '40px', marginBottom: '40px'}}>Get In Touch</div>
             </Col>
             <Col span={4}>
                 
@@ -32,7 +32,7 @@ const style={
             </Col>
             <Col span={4}>
                 
-            </Col>
+            </Col> */}
             <ContactUs/>
             <div style={{margin : 'auto'}}>Personal portifolio page made by mintesnot Bekele | NO ©copyright issues Feel free to check my github to re use it  </div>
           </Row>

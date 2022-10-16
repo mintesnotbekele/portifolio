@@ -65,6 +65,7 @@ const imageStyle = {
                 
             </Form.Item>
       </Form>
+      
             </Col>
         
         </>
