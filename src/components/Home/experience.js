@@ -14,9 +14,10 @@ const Experience=()=>{
             <Col span={8}>
                 <img style={{objectFit: 'contain', width: '100%', height: '200px'}} src={berhanImage} alt="BerhanBank sc logo"/>
             </Col>
-            <Col span={8}> <img style={{objectFit: 'contain', width: '100%', height: '200px'}} src={elnetImage} alt="elnet Technologies limited logo"/></Col>
             <Col span={8}> <img style={{objectFit: 'contain', width: '100%', height: '200px'}} src={yerasImage} alt="Yerrass It technology group Logo"/></Col>
-        </Row>
+    
+            <Col span={8}> <img style={{objectFit: 'contain', width: '100%', height: '200px'}} src={elnetImage} alt="elnet Technologies limited logo"/></Col>
+               </Row>
         </>
     )
 }

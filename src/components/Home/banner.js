@@ -3,6 +3,7 @@ import bannerImage from '../../assets/port.jpg';
 import Footer from "../footer";
 import Experience from "./experience";
 import HomeSkills from "./homeSkills";
+import Projects from "./projects";
 import Services from "./services";
 import Tools from "./tools";
      const Banner=()=>{
@@ -37,6 +38,7 @@ import Tools from "./tools";
                 {/* <HomeSkills/> */}
                 <Services/>
                 <Tools/>
+                <Projects/>
                 <Experience/>
                 <Footer/>
                 </>
