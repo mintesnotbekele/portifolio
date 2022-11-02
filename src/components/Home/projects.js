@@ -28,18 +28,8 @@ return (
          <Col style={contStyle} span={10}><div style={{margin: '0px 100px'}}>
          Yerras-App
          <img src={cattleImage}/>
-         </div></Col>
-        {/* <Col  style={contStyle} span={10}> <div style={{margin: '0px 100px'}}> 
-            Boda Boda 
-            <img src={bodaImage}/>
-            </div></Col>
-        <Col  style={contStyle} span={8}> <div style={{margin: '0px 100px'}}>ElTNT
-        <img src={taxiyeImage}/>  
-        </div> </Col>
-        <Col  style={contStyle} span={8}> <div style={{margin: '0px 100px'}}>Yerras-App
-         <img src={cattleImage}/>
-        </div></Col>
-        <Col  style={contStyle} span={8}> <div style={{margin: '0px 100px'}}>Berhan Lottery </div></Col> */}
+         </div>
+        </Col>
     </Row>
     </>
 )
